@@ -1,0 +1,50 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Serif', serif;
+}
+
+body{
+    background-color:  #c77dff;
+    padding: 20px;
+}
+
+.heading_title{
+    text-align: center;
+    padding: 9px 70px;
+    background-color: #001233;
+    color: #fff;
+    width: 40%;
+    margin-left: 320px;
+    border-radius: 30px;
+}
+
+#textbox{
+    width: 50%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    margin-left: 320px;
+    font-size: 20px;
+    border-radius: 9px;
+    padding: 5px;
+}
+
+.para{
+    text-align: center;
+    background-color: #343a40;
+    padding: 15px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #fff;
+    width: 30%;
+    margin-left: 460px;
+    border-radius: 20px;
+}
+span{
+    color: #fcca46;
+    font-size: 26px;
+    font-size: bold;
+}

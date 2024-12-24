@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#logo{
+    width: 250px;
+    height: auto;
+}
+
+#small-container{
+    background-color: #ffc4bf;
+}
+#menu-bar{
+    background-color: blueviolet;
+    /* width: 100%; */
+}
+
+#menu-bar li{
+    display: inline-block;
+    padding: 10px 15px;
+    font-size: 20px;
+    color: #ffff;
+    cursor: pointer;
+    font: bold;
+}
+
+h1{
+    padding: 2rem;
+    text-decoration: underline;
+}
+
+#big-img{
+    width: 60%;
+}
+.sticky{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+p{
+    font-size: 18px;
+    text-align: justify;
+    margin: 30px;
+}
+
